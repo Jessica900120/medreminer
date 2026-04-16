@@ -1,0 +1,6 @@
+{
+  "name": "MedRemind - 周期性吃药提醒",
+  "description": "根据月经周期自动计算地屈孕酮片吃药时间、预测下月周期及复诊提醒的专业助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
